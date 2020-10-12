@@ -1,0 +1,82 @@
+html, body{
+margin: 0px;
+background-color: black;
+}
+
+
+  .mainContent1 {
+    font-family: shrek;
+    font-size: 20vmin;
+    display: flex;
+    color:#B0C400;
+    text-shadow: 2px 2px 5px #D0D9CC;
+    justify-content: center;
+  }
+
+  .mainContent1 > p{
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+
+  .shrekpic{
+    display: flex;
+    justify-content: center;
+    border: 2vmin;
+    border-style: #B0C400;
+    height: 50vmin;
+
+  }
+
+  .mainContainer{
+    display: flex;
+    justify-content: center;
+    font-family: Parisienne;
+    font-size: 7vmin;
+    color: #B0C400;
+
+  }
+.mainContent2 {
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  font-style: italic;
+  font-style: bold;
+  font-size: 2vmin;
+  color: #B0C400;
+}
+
+.information > p {
+  font-size: 4vmin;
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  text-indent: 10vmin;
+  color: #B0C400;
+  font-style: italic;
+  padding-left: 35vmin;
+  padding-right: 30vmin;
+  line-height:7vmin;
+}
+
+.link>p {
+  display: flex;
+  font-size: 3vmin;
+  justify-content: center;
+  font-family: serif;
+  text-indent: 10vmin;
+  color: #B0C400;
+  font-style: italic;
+}
+
+.link > a {
+  display: flex;
+  justify-content: center;
+  font-family: serif;
+  font-size: 3vmin;
+  text-indent: 10vmin;
+  line-height: 1vmin;
+  color: #B0C400;
+  text-shadow: 2px 2px 5px #D0D9CC;
+  margin: 6vmin;
+  font-style: italic;
+}
